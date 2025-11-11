@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: 5ba08046339912949a4c4b9a962c5757
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: S_VioletBattle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa07daffcee62fc4c8a0c9e0af88311a
+      internalID: -1824833336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_1
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 3240
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a96492b889c12478e807ce429acae3
+      internalID: 739771940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_2
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 3240
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be3b164908de1e4c816fff8c8358dc6
+      internalID: 1026626957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_3
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 3240
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa9531aece41fe41a774bde845380fd
+      internalID: -1514686192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_4
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3240
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b258b8ed872e1ff47b46fb469399ef6e
+      internalID: 766181909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_5
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 3240
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1174b201f63b67648af209318084b5fc
+      internalID: -1838640974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_6
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 3240
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a342b146a1f49488a4e7d0b360db96
+      internalID: 2061637713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_7
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 3240
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f212de6a5e5c69c48a25337df93830e4
+      internalID: 1687425073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0c044bd7fbeb94f9cd20cda129ce00
+      internalID: 719556851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_9
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2592
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c8cfb4161e8564c8978155f2252a5d
+      internalID: 1419605872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_10
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2592
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbed9218fa787154cbc8cb331d47ff3e
+      internalID: -720834741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1944
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f05836ec1108340a4c92435c023e9c
+      internalID: -1348447211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_12
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1944
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b74b45e7a55f1a48b206fbf2f70927f
+      internalID: 558861483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_13
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1944
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86e8d1ef39527a40850406dd7e074cc
+      internalID: 662380795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_14
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1944
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d15a4981f7a8cd46847d8c657d543f9
+      internalID: -587062502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_15
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1944
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba29eda45198544db02209e9f428b6d
+      internalID: -594805357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_16
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1944
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c6d73372d52db45ac09936a7b76ee3
+      internalID: -535512074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_17
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 1944
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afa2e2b545d93c408763977744e9d3a
+      internalID: 793545455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_18
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 1944
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60f9b0192aabc4428731da645dba53d
+      internalID: 1114012605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_19
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 1944
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da6e5ff56569664bbcc156019badcdb
+      internalID: 818403512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_20
+      rect:
+        serializedVersion: 2
+        x: 6156
+        y: 1944
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f56d8704b036e49a15a093cd6e8529
+      internalID: 649140547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0e6a6e9aa02be448592199bd549906
+      internalID: -246410853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_22
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1296
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9a7558ab227da4da9a867c82ab2f64
+      internalID: 1708068415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_23
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1296
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eacc06bce09954ba7ca706a5bc004b
+      internalID: -1524908473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_24
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1296
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3f0446b3329e1418deb6e6414c85df
+      internalID: 1741171035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_25
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1296
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4727bbabac0e6745bfa176caab4a5c7
+      internalID: -1685987658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_26
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1296
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6ee6c8909495e4d8f2ce4592bfe02a
+      internalID: -400669537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_27
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 1296
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d7654f3db762948b636ef65a4660ec
+      internalID: 335922358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_28
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 1296
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1865da4c498bd4492127c3bef309cb
+      internalID: -1788869751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_29
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 1296
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c37dff1d888b0f46a4a5a09be764b4c
+      internalID: 624226329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_30
+      rect:
+        serializedVersion: 2
+        x: 6156
+        y: 1296
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16786ea5f34cc8e469f3b508e1528c7e
+      internalID: 274776978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5bcf5e49d896f47a3f1bd2f9fe8e3e
+      internalID: 1474711373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_32
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 648
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef042595518d195449197a4c8ccabf61
+      internalID: -1356499153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_33
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 648
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a3642e7ccbc114398dd2644b1f78c1
+      internalID: -280119511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_34
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 648
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfea5dc48aef4694aa57803a6b505fbc
+      internalID: -1421244899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_35
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 648
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af5bc4c086d7ee4fa4ddf42bdd5c9dc
+      internalID: -2100281280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_36
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 648
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82ad26b2c219bb4091e2163cac64463
+      internalID: 1769194079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_37
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 648
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43a6ce0a84a82741a64d5303ecc6146
+      internalID: -1606764438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_38
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 648
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3ec0c6c8446a143bdbe8bfaf869603
+      internalID: -1883375579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_39
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 648
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22ad48a9df603c48a30af0bf8d6a834
+      internalID: 1532052631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_40
+      rect:
+        serializedVersion: 2
+        x: 6156
+        y: 648
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0540bfa7c8bd14b93d1ef568d2ff75
+      internalID: -1534625779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba075fddea1554044869b71aedff1446
+      internalID: -958997077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_42
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb59f46472cb59f46a686f8935407dd8
+      internalID: 1995135782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_43
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56383a2625b57c458edab9d0ca52afc
+      internalID: 992993696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_44
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 0
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949310e8eda11d64dab36b02978418ab
+      internalID: -454800477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_45
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 0
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73cfece1da7718429070a4113db802d
+      internalID: 782432288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_46
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 0
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced455cc25e13154982b1f6ef93bc3e0
+      internalID: -392864308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_47
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 0
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b58c783f980afc47b34076f840a951b
+      internalID: 942261153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_48
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 0
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e627757fa81cb584d80bd06c8a140f67
+      internalID: 1119787333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_49
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 0
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8e23c378bca664cb0e5da22f85b234
+      internalID: -173671146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_VioletBattle_50
+      rect:
+        serializedVersion: 2
+        x: 6156
+        y: 0
+        width: 684
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6823fccdb38d74fa13bdd893e77a7b
+      internalID: -1369903910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      S_VioletBattle_0: -1824833336
+      S_VioletBattle_1: 739771940
+      S_VioletBattle_10: -720834741
+      S_VioletBattle_11: -1348447211
+      S_VioletBattle_12: 558861483
+      S_VioletBattle_13: 662380795
+      S_VioletBattle_14: -587062502
+      S_VioletBattle_15: -594805357
+      S_VioletBattle_16: -535512074
+      S_VioletBattle_17: 793545455
+      S_VioletBattle_18: 1114012605
+      S_VioletBattle_19: 818403512
+      S_VioletBattle_2: 1026626957
+      S_VioletBattle_20: 649140547
+      S_VioletBattle_21: -246410853
+      S_VioletBattle_22: 1708068415
+      S_VioletBattle_23: -1524908473
+      S_VioletBattle_24: 1741171035
+      S_VioletBattle_25: -1685987658
+      S_VioletBattle_26: -400669537
+      S_VioletBattle_27: 335922358
+      S_VioletBattle_28: -1788869751
+      S_VioletBattle_29: 624226329
+      S_VioletBattle_3: -1514686192
+      S_VioletBattle_30: 274776978
+      S_VioletBattle_31: 1474711373
+      S_VioletBattle_32: -1356499153
+      S_VioletBattle_33: -280119511
+      S_VioletBattle_34: -1421244899
+      S_VioletBattle_35: -2100281280
+      S_VioletBattle_36: 1769194079
+      S_VioletBattle_37: -1606764438
+      S_VioletBattle_38: -1883375579
+      S_VioletBattle_39: 1532052631
+      S_VioletBattle_4: 766181909
+      S_VioletBattle_40: -1534625779
+      S_VioletBattle_41: -958997077
+      S_VioletBattle_42: 1995135782
+      S_VioletBattle_43: 992993696
+      S_VioletBattle_44: -454800477
+      S_VioletBattle_45: 782432288
+      S_VioletBattle_46: -392864308
+      S_VioletBattle_47: 942261153
+      S_VioletBattle_48: 1119787333
+      S_VioletBattle_49: -173671146
+      S_VioletBattle_5: -1838640974
+      S_VioletBattle_50: -1369903910
+      S_VioletBattle_6: 2061637713
+      S_VioletBattle_7: 1687425073
+      S_VioletBattle_8: 719556851
+      S_VioletBattle_9: 1419605872
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
