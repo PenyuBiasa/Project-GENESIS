@@ -14,7 +14,7 @@ PlayerSettings:
   accelerometerFrequency: 60
   companyName: Erebus Studio
   productName: Project GENESIS
-  defaultCursor: {fileID: 0}
+  defaultCursor: {fileID: 2800000, guid: c6602d24a28c2ff4bb74d13dcb78a97d, type: 3}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
   m_ShowUnitySplashScreen: 1
@@ -167,7 +167,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Standalone: com.DefaultCompany.Project-GENESIS
+    Standalone: com.Erebus-Studio.Project-GENESIS
   buildNumber:
     Standalone: 0
     VisionOS: 0
