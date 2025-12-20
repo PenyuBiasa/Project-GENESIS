@@ -392,9 +392,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   followPlayer: {fileID: 50106031}
   distanceFromPlayer: 1.5
-  followPlayerPositions: []
-  allowableSampleDistance: 0.1
-  sampleTimeDifference: 0.5
+  followPlayerPositions:
+  - {x: 0, y: 0}
+  allowableSampleDistance: 0.5
+  sampleTimeDifference: 5
   followSpeed: 5
   removeDistance: 0
 --- !u!50 &275577163

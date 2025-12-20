@@ -15,7 +15,8 @@ public class FollowPlayer : MonoBehaviour
     public float followSpeed;
     public float removeDistance;
     private Animator animator;
-    private Vector2 lastDirection;
+    private const string _horizontal = "horizontal";
+    private const string _vertical = "vertical";
 
     void Start()
     {
@@ -65,10 +66,10 @@ public class FollowPlayer : MonoBehaviour
             );
 
             // Kirim arah ke Animator
-            animator.SetFloat("horizontal", direction.x);
-            animator.SetFloat("vertical", direction.y);
+            animator.SetFloat(_horizontal, direction.x);
+            animator.SetFloat(_vertical, direction.y);
 
-            lastDirection = direction;
+            // lastDirection = direction;
         }
         else
         {
@@ -76,36 +77,6 @@ public class FollowPlayer : MonoBehaviour
             animator.SetFloat("horizontal", 0);
             animator.SetFloat("vertical", 0);
         }
-
-    //     Vector2 currentPlayerPos = followPlayer.position;
-
-    //     // Cek apakah player bergerak
-    //     bool playerMoving = Vector2.Distance(currentPlayerPos, lastPlayerPos) > 0.01f;
-
-    //     if (playerMoving && distance > distanceFromPlayer)
-    //     {
-    //         Vector2 direction = (followPlayer.position - transform.position).normalized;
-
-    //         transform.position = Vector2.MoveTowards(
-    //             transform.position,
-    //             followPlayer.position,
-    //             followSpeed * Time.deltaTime
-    //         );
-
-    //         // Animasi jalan
-    //         animator.SetFloat("horizontal", direction.x);
-    //         animator.SetFloat("vertical", direction.y);
-
-    //         lastDirection = direction;
-    //     }
-    //     else
-    //     {
-    //         // Player diam → NPC idle
-    //         animator.SetFloat("horizontal", 0);
-    //         animator.SetFloat("vertical", 0);
-    //     }
-
-    //     lastPlayerPos = currentPlayerPos;
     }
 
 }
