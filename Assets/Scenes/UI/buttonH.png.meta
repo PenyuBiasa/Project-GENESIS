@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b58aec545d1903c4d933cfc1ee903f4f
+guid: 3c488f8796e657f4fad00bfb83b5bef8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -95,154 +95,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: buttonH_0
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 247
-        width: 267
-        height: 115
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c40633a68f97b62428f45e36321bd08b
-      internalID: 440541309
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: buttonH_1
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 247
-        width: 268
-        height: 115
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 94d94602e63520e47ba562276cdfb772
-      internalID: 1949757774
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: buttonH_2
-      rect:
-        serializedVersion: 2
-        x: 545
-        y: 247
-        width: 268
-        height: 115
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8cd0bd007f8e9da469dc1d9c9bab5221
-      internalID: -61769032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: buttonH_3
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 124
-        width: 267
-        height: 115
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d4b0f53d88926f94282b6ce5eb52d325
-      internalID: 899543197
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: buttonH_4
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 124
-        width: 268
-        height: 115
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1427bff33ded8cb459af216f3b427d53
-      internalID: -1575791164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: buttonH_5
-      rect:
-        serializedVersion: 2
-        x: 545
-        y: 124
-        width: 268
-        height: 115
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 17c6ee66f53c17c44b023810063f4ce6
-      internalID: -297166698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: buttonH_6
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 1
-        width: 267
-        height: 115
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1781ade38bf7ac147af891d3b67cc0dd
-      internalID: 414686917
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -253,14 +106,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      buttonH_0: 440541309
-      buttonH_1: 1949757774
-      buttonH_2: -61769032
-      buttonH_3: 899543197
-      buttonH_4: -1575791164
-      buttonH_5: -297166698
-      buttonH_6: 414686917
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
