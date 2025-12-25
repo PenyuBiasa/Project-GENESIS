@@ -25,33 +25,7 @@ public class FollowPlayer : MonoBehaviour
         followPlayerPositions.Add(followPlayer.position);
     }
 
-
-    // void Update()
-    // {
-    //     if (Time.time > sampleTime)
-    //     {
-    //         sampleTime = Time.time + sampleTimeDifference;
-
-    //         if (Vector2.Distance(followPlayer.position, followPlayerPositions[followPlayerPositions.Count - 1]) > allowableSampleDistance)
-    //         {
-    //             followPlayerPositions.Add(followPlayer.position);
-    //         }
-    //     }
-
-    //     if (Vector2.Distance(transform.position,followPlayer.position) > distanceFromPlayer)
-    //     {
-    //         transform.position = Vector2.MoveTowards(transform.position, followPlayer.position, Time.deltaTime *followSpeed);
-    //         if (Vector2.Distance(transform.position, followPlayerPositions[0]) < removeDistance)
-    //         {
-    //             if (followPlayerPositions.Count > 1)
-    //             {
-    //                 followPlayerPositions.RemoveAt(0);
-    //             }
-    //         }
-    //     }
-    // }
-
-    void Update()
+    void FixedUpdate()
     {
         float distance = Vector2.Distance(transform.position, followPlayer.position);
 
